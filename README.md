@@ -1,7 +1,12 @@
 # internship_Canada
 Akshon e sports internship 
 
-### 오버워치 프로게임 전략 분석 labeler
+## 오버워치 프로게임 전략 분석 labeler
+
+### Get Started
+- cmd -> python visualize.py video명
+- 스크롤로 프레임 전환
+- 공격한 선수 이름, 시간, 장소, 스킬, 맵, 공격을 당한 선수 이름을 레이블링
 
 ### Screenshots
 <div>
